@@ -31,9 +31,9 @@ var (
 
 				URLs: []string{"turn:turn.localhost:3478"},
 
-				Username: "akhil",
+				Username: "faraz",
 
-				Credential:     "sharma",
+				Credential: "pathan",
 				CredentialType: webrtc.ICECredentialTypePassword,
 			},
 		},
